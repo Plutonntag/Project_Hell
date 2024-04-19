@@ -147,28 +147,12 @@ int main() {
 
     //          Affichage
 
-    //afficheText("Name.txt"); //Francois
-    //afficheText("your_hell.txt"); //welcome to your hell
-    //afficheText("Accueil.txt"); //image accueil
+
     afficheText("texte_debut.txt"); // texte intro au jeu
 
     cout << "continuer <oui>";
     cin >> rien;
     system("cls"); // clear la console
-
-
-    
-
-
-    
-
-
-
-
-
-    //afficheText("diable_oui.txt"); //le joueur accepte
-
-
 
 
 
